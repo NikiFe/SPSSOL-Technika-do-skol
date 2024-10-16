@@ -67,4 +67,4 @@ Projekt "Technika ve výuce" je inovativní iniciativa zaměřená na integraci 
 
 Projekt "Technika ve výuce" představuje významný krok vpřed v modernizaci vzdělávacího procesu. Nabízí studentům i učitelům příležitost experimentovat s nejnovějšími technologiemi a připravit se na výzvy 21. století.
 
-[Zpět na hlavní stránku](./README.md) | [Přejít na možnosti dalšího rozvoje](./rozvoj/README.md)
+[Zpět na hlavní stránku](../README.md) | [Přejít na možnosti dalšího rozvoje](./rozvoj/README.md)
