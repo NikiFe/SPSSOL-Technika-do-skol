@@ -44,4 +44,4 @@ Virtuální realita (VR) nabízí široké možnosti využití napříč různý
 
 Každý z těchto příkladů demonstruje, jak VR může obohatit výuku a poskytnout studentům jedinečné a poutavé vzdělávací zážitky. Kliknutím na jednotlivé odkazy získáte podrobnější informace o konkrétních aplikacích VR v daném předmětu.
 
-[Zpět na hlavní stránku](../README.md) | [Přejít na popis projektu](../popis-projektu.md)
+[Zpět na hlavní stránku](../../README.md) | [Přejít na popis projektu](../popis-projektu.md)

@@ -45,4 +45,4 @@ Virtuální realita (VR) umožňuje studentům zažít historické bitvy způsob
 - **Využijte diskusi**: Povzbuzujte studenty k diskusi o jejich zážitcích a poznatcích.
 - **Integrujte do osnovy**: Zahrňte VR simulace jako součást širšího učebního plánu dějepisu.
 
-[Zpět na hlavní stránku](../../README.md) | [Přejít na virtuální prohlídky](./virtualni-prohlidky.md)
+[Zpět na hlavní stránku](../../../README.md) | [Přejít na virtuální prohlídky](./virtualni-prohlidky.md)

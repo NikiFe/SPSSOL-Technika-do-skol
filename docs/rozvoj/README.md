@@ -64,4 +64,4 @@ Projekt "Technika ve výuce" má potenciál růst a rozvíjet se mnoha směry. Z
 
 Tyto možnosti dalšího rozvoje ukazují, že projekt "Technika ve výuce" má potenciál stát se hnací silou inovací ve vzdělávání. Postupným rozšiřováním a prohlubováním využití technologií můžeme vytvořit vzdělávací prostředí, které bude lépe připravovat studenty na výzvy 21. století.
 
-[Zpět na hlavní stránku](../README.md) | [Přejít na popis projektu](../popis-projektu.md)
+[Zpět na hlavní stránku](../../README.md) | [Přejít na popis projektu](../popis-projektu.md)

@@ -45,4 +45,4 @@ Virtuální realita (VR) nabízí jedinečnou příležitost prozkoumat literár
 - **Využijte diskusi**: Povzbuzujte studenty k diskusi o jejich zážitcích a poznatcích.
 - **Integrujte do osnovy**: Zahrňte VR simulace jako součást širšího učebního plánu literatury.
 
-[Zpět na hlavní stránku](../../README.md) | [Přejít na interaktivní analýzu textu](./analyza-textu.md)
+[Zpět na hlavní stránku](../../../README.md) | [Přejít na interaktivní analýzu textu](./analyza-textu.md)
