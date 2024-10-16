@@ -1,4 +1,4 @@
-# Technika ve výuce
+# Technika ve výuce - Studentské projekt Střední průmyslové školy strojnické Olomouc
 
 Vítejte v projektu "Technika ve výuce". Tento projekt se zaměřuje na integraci moderních technologií do vzdělávacího procesu s cílem zefektivnit a obohatit výuku na středních školách. Hlavní důraz klademe na využití virtuální reality (VR), zároveň však zkoumáme i další technologické nástroje, které mohou přispět ke zkvalitnění vzdělávání.
 
