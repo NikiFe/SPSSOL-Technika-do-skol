@@ -12,9 +12,6 @@ Vítejte v projektu "Technika ve výuce". Tento projekt se zaměřuje na integra
 
 Pro detailní informace o jednotlivých aspektech projektu navštivte příslušné sekce.
 
-## Jak přispět
-
-Pokud máte zájem přispět k tomuto projektu, kontaktujte prosím vedoucího projektu nebo navštivte naši [stránku pro přispěvatele](./CONTRIBUTING.md).
 
 ## Licence
 
