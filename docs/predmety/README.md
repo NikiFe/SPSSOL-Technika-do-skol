@@ -12,11 +12,6 @@ Virtuální realita (VR) nabízí široké možnosti využití napříč různý
 - [Interaktivní experimenty](./fyzika/interaktivni-experimenty.md)
 - [Zkoumání vesmíru](./fyzika/vesmir-vr.md)
 
-## Biologie
-- [Virtuální pitvy](./biologie/virtualni-pitvy.md)
-- [Zkoumání ekosystémů](./biologie/ekosystemy.md)
-- [Cestování lidským tělem](./biologie/lidske-telo.md)
-
 ## Chemie
 - [Bezpečné chemické experimenty](./chemie/bezpecne-experimenty.md)
 - [Molekulární modelování](./chemie/molekularni-modelovani.md)
